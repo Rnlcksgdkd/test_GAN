@@ -1,0 +1,12 @@
+
+/.idea
+*/.ipynb_checkpoints
+*/data
+*/vec
+*/graphs
+*/*.txt
+*/save/
+*/embed/
+*/checkpoint/
+
+*/__pycache__/
